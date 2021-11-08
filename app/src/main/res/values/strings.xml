@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PunkApp</string>
+    <string name="beers_title">Beers</string>
+    <string name="beer_description">Beer</string>
+    <string name="error_text">Error</string>
+</resources>
